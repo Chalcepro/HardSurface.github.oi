@@ -1,0 +1,13 @@
+Person to Upload they're designs, 
+create a profile
+profile has 3 secs, resume, collection, porfolio
+portfolio: has all desings of the user
+resume: 5 field = about, experience, tools, area of 3d (env art, modeller, animator)
+
+admin = view every user that signs up, manage users
+
+
+colors
+primary, green, white dark mode = black and orange
+
+Nigerians Port.
