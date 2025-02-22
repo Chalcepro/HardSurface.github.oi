@@ -1,4 +1,4 @@
-# HardSurface.github.oi
+# HardSurface
 
 <!-- welcome -->
 Welcome to the only README file for the HardSurface website.
